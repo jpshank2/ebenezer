@@ -1,0 +1,47 @@
+{
+    "entities": [
+        {
+            "id": 1,
+            "name": "Jeremy Shank",
+            "email": "jpshank2@gmail.com",
+            "type": 1,
+            "active": true
+        },
+        {
+            "id": 2,
+            "name": "Cameron Patterson",
+            "email": "cpatterson@faith-pca.org",
+            "type": 1,
+            "active": true
+        },
+        {
+            "id": 3,
+            "name": "Bradley Moore",
+            "email": "bmoore@bmsswesson.com",
+            "type": 1,
+            "active": true
+        },
+        {
+            "id": 4,
+            "name": "Faith Presbyterian Church",
+            "email": "info@faith-pca.org",
+            "type": 2,
+            "active": true
+        },
+        {
+            "id": 5,
+            "name": "Bradley and Lea Moore Grace Group",
+            "email": "bmoore@bmsswesson.com",
+            "type": 3,
+            "active": true
+        },
+        {
+            "id": 6,
+            "name": "Covenant KC",
+            "email": "cpatterson@faith-pca.org",
+            "type": 4,
+            "active": true
+        }
+    ],
+    "nextid": 7
+}

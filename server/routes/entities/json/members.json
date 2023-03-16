@@ -1,0 +1,36 @@
+{
+    "members": [
+        {
+            "id": 1,
+            "member": 1,
+            "entity": 1,
+            "type": 1,
+            "dateAdded": "3/15/2023",
+            "dateRemoved": null
+        },
+        {
+            "id": 2,
+            "member": 1,
+            "entity": 4,
+            "type": 2,
+            "dateAdded": "3/15/2023",
+            "dateRemoved": null
+        },
+        {
+            "id": 3,
+            "member": 1,
+            "entity": 6,
+            "type": 2,
+            "dateAdded": "3/15/2023",
+            "dateRemoved": null
+        },
+        {
+            "id": 4,
+            "member": 2,
+            "entity": 4,
+            "type": 3,
+            "dateAdded": "3/15/2023",
+            "dateRemoved": null
+        }
+    ]
+}
